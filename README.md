@@ -57,7 +57,7 @@ If you prefer to build from source:
 
 ```bash
 # Clone the repository
-git clone https://github.com/RigRanger/RigRanger-Client.git
+git clone https://github.com/Armysarge/RigRanger-Client.git
 cd RigRanger-Client
 
 # Install dependencies
@@ -142,11 +142,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Related Projects
 
-- [RigRanger-Server](https://github.com/RigRanger/RigRanger-Server) - Server application for hosting your radio
+- [RigRanger-Server](https://github.com/Armysarge/RigRanger-Server) - Server application for hosting your radio
 
 ## Contact
 
-If you have any questions or feedback, please open an issue on our [GitHub repository](https://github.com/RigRanger/RigRanger-Client/issues).
+If you have any questions or feedback, please open an issue on our [GitHub repository](https://github.com/Armysarge/RigRanger-Client/issues).
 
 ---
 
