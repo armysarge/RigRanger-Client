@@ -1,6 +1,8 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-brightgreen?logo=buymeacoffee)](https://www.buymeacoffee.com/armysarge)
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-14%2B-blue.svg)](https://nodejs.org/)
+[![Electron](https://img.shields.io/badge/Electron-16%2B-blue.svg)](https://www.electronjs.org/)
+[![React](https://img.shields.io/badge/React-17%2B-blue.svg)](https://reactjs.org/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/armysarge/rigranger-client)](https://github.com/armysarge/rigranger-client/issues)
