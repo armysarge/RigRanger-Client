@@ -144,6 +144,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [RigRanger-Server](https://github.com/Armysarge/RigRanger-Server) - Server application for hosting your radio
 
+## Acknowledgements
+
+- [Hamlib](https://hamlib.github.io/) - Library for controlling radio transceivers
+
 ## Contact
 
 If you have any questions or feedback, please open an issue on our [GitHub repository](https://github.com/Armysarge/RigRanger-Client/issues).
