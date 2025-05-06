@@ -1,0 +1,42 @@
+appId: "com.rigranger.client"
+productName: "RigRanger Client"
+copyright: "Copyright © 2025"
+
+directories:
+  output: "dist"
+  buildResources: "build"
+
+files:
+  - "build/**/*"
+  - "node_modules/**/*"
+  - "src/main.js"
+  - "src/preload.js"
+  - "package.json"
+
+extraResources:
+  - from: "resources"
+    to: "resources"
+    filter: ["**/*"]
+
+win:
+  target: ["nsis", "portable"]
+  icon: "public/icon.ico"
+
+linux:
+  target: ["AppImage", "deb"]
+  category: "Network;HamRadio"
+  icon: "public/icon.png"
+
+mac:
+  target: ["dmg"]
+  category: "public.app-category.utilities"
+  icon: "public/icon.icns"
+
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+
+publish:
+  provider: "github"
+  releaseType: "draft"
